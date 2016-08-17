@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CALS]]></title>
         <description><![CDATA[CALS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:57:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 17:01:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I have worked for Architectural and Non-Architectural Organisations in various capacities. I have developed strong design methodologies, management skills and systems, and a strong work ethic. I have worked in small and large project teams on a variety of projects both in Jamaica and Trinidad, with local and overseas consultants. Between 2005 to 2008 I worked as a part of the Executive of TMC Architecture Limited, Trinidad, to develop, acquire and maintain ISO Certification, becoming one of the first Architectural firms to achieve this certification. I hold a Masters of Architecture, Bachelor of Arts in Architectural Studies and an Associate Degree in the Built Environment. I am also a member of several professional bodies, such as: the Trinidad and Tobago Institute of Architects (TTIA) and the Project Management Institute (PMI).</p>]]></description>
-            <link>undefinedi-have-worked-for-architectural-and-non-architectural-organi/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ab604d-2c49-482b-81d5-67d3980c2b5b.jpg">]]></description>
+            <link>https://thegrid.ai/cals/i-have-worked-for-architectural-and-non-architectural-organi/index.html</link>
             <guid isPermaLink="false">757c5191-bff0-404b-8b65-78f0b440611c</guid>
-            <pubDate>Wed, 17 Aug 2016 16:57:22 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 17:00:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
